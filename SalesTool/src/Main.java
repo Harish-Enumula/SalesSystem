@@ -8,7 +8,7 @@ public static void main(String args[])
 	
 	}
 static void welcome(){
-	System.out.println("welcome to ");
+	System.out.println("WELCOME TO PROJECT ");
 	
 	//First Edit
 	System.out.println(" Test 1");
