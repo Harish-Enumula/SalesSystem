@@ -10,6 +10,7 @@ public class Salesdata {
 		for(int a:data){
 			System.out.println("Value ="+a);
 		}
+		System.out.println("Completed");
 		
 	}
 
